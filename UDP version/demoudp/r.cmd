@@ -1,0 +1,1 @@
+router --port=3000 --drop-rate=0.2 --max-delay=10ms --seed=1
